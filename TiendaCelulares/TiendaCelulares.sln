@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.TiendaCelulares", "Win.TiendaCelulares\Win.TiendaCelulares.csproj", "{33753EF6-6F3D-444F-91CA-724837EA7786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Seguridad", "BL.Seguridad\BL.Seguridad.csproj", "{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{33753EF6-6F3D-444F-91CA-724837EA7786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33753EF6-6F3D-444F-91CA-724837EA7786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33753EF6-6F3D-444F-91CA-724837EA7786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA79E0E-F7B3-4B97-AAAB-D8436A95E106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
